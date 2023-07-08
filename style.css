@@ -8,16 +8,14 @@ a {
   text-decoration: none;
 }
 
-#home {
-  background-color: #cedce2;
-  background-size: cover;
-  height: 100vh;
+body {
+  background-color: #c8e6f1;
+  height: 100%;
 }
 
 .container .square {
-  position: absolute;
-  margin-top: 10rem;
-  margin-left: 49.5rem;
+  margin-inline: auto;
+  margin-top: 12rem;
   padding: 1rem;
   background-color: white;
   border-radius: 1rem;
